@@ -2,7 +2,7 @@
 - 👀 I’m interested in academic research.
 - 🌱 I’m currently working in Computational Fluid Mechanics and Fast Algorithms.
 - 💞️ I’m looking to collaborate on Fast Multipole Numerical Methods and other interesting mathematics.
-- 📫 Reach me athttps://jlpabon.github.io/Websitejlpv1/ or https://web.njit.edu/~jlp43/ .
+- 📫 Reach me at https://jlpabon.github.io/Websitejlpv1/ or https://web.njit.edu/~jlp43/ .
 
 <!---
 jlpabon/jlpabon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
